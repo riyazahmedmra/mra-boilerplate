@@ -1,5 +1,3 @@
 mountpoints:
-  /: 
-  url: https://author-p67012-e899281.adobeaemcloud.com/bin/franklin.delivery/riyazahmedmra/mra-boilerplate/main
-  type: "markup"
-  suffix: "html"
+  /: https://drive.google.com/drive/folders/1-3lSFVfU7VQJUDkvpzntcT39kbE62fHq
+
